@@ -1,6 +1,7 @@
 今天在空间里看到一个所谓的"抽奖"网站，想去看看是个什么情况，能诱导几个同学分享了它们的页面。[这](http://choujiang.dgyfsd.com/zhuanpan/)是它们的网站首页。看了一下，整个页面能给用户看到的就是一张图片而已(好吧，可能人家是专为手机用户设计的呢，知道晚上那么晚了看这个的应该是用手机吧)，</br>
 ![千万红包](https://github.com/caiqiqi/zhongjiang/blob/master/img/%E5%8D%83%E4%B8%87%E7%BA%A2%E5%8C%85.jpg)</br>
-不管点这个页面的哪里，都是那张图片，而这张图片都指向[这里](http://choujiang.dgyfsd.com/zhuanpan/haoyunlai.html)，即同目录下的`haoyunlai.html`,大概是这么个样子![送你三次抽奖机会](https://github.com/caiqiqi/zhongjiang/blob/master/img/%E8%BF%98TMD%E9%80%81%E4%BD%A0%E4%B8%89%E6%AC%A1%E6%9C%BA%E4%BC%9A-%E6%98%8E%E6%98%8E%E4%BB%A3%E7%A0%81%E9%87%8C%E5%86%99%E6%AD%BB%E4%BA%86%E5%B0%8F%E4%BA%8E%E4%B8%89%E6%AC%A1%E5%B0%B1%E4%B8%8D%E4%BC%9A%E4%B8%AD%E7%9A%84.PNG) ![抽奖按钮](https://github.com/caiqiqi/zhongjiang/blob/master/img/%E6%8D%95%E8%8E%B7%E6%8C%89%E9%92%AE.PNG)</br>
+不管点这个页面的哪里，都是那张图片，而这张图片都指向[这里](http://choujiang.dgyfsd.com/zhuanpan/haoyunlai.html)，即同目录下的`haoyunlai.html`,大概是这么个样子![送你三次抽奖机会](https://github.com/caiqiqi/zhongjiang/blob/master/img/%E8%BF%98TMD%E9%80%81%E4%BD%A0%E4%B8%89%E6%AC%A1%E6%9C%BA%E4%BC%9A-%E6%98%8E%E6%98%8E%E4%BB%A3%E7%A0%81%E9%87%8C%E5%86%99%E6%AD%BB%E4%BA%86%E5%B0%8F%E4%BA%8E%E4%B8%89%E6%AC%A1%E5%B0%B1%E4%B8%8D%E4%BC%9A%E4%B8%AD%E7%9A%84.PNG)
+<img src="https://github.com/caiqiqi/zhongjiang/blob/master/img/%E6%8D%95%E8%8E%B7%E6%8C%89%E9%92%AE.PNG" width="50%" height="50%">
 放心，前两次一定不会中，因为代码里已经写死了。</br>
 好,来看看为什么前两次不会中，第三次肯定中。</br>
 
